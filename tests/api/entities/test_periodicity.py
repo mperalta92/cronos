@@ -2,7 +2,7 @@ from datetime import datetime, time
 from unittest import TestCase
 from unittest.mock import MagicMock
 from typing import List
-from entities.periodicity import Periodicity
+from api.entities.periodicity import Periodicity
 
 
 class TestPeriodicity(TestCase):
