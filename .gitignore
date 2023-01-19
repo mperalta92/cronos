@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+
+# Virtualenv
+.env
+.venv*
+src/*
+
+.coverage
+htmlcov/*
+coverage.xml
+
+# PyCharm
+.idea
+
+.vscode
+.DS_*
+
+# Development environment variables
+env
+vnv
+venv
+venv2
+
+env.test
+env.dev
+env.prod
+env.developer
+
+.env.test
+.env.dev
+.env.prod
+.env.developer
+settings.sh
+
